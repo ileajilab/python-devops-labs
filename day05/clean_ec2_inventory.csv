@@ -1,0 +1,6 @@
+id,type,environment
+i-001,t3.medium,prod
+i-002,t3.small,dev
+i-003,t3.large,prod
+i-004,t3.micro,dev
+i-005,t3.small,unknown
